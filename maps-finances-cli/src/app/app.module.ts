@@ -3,14 +3,23 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { ContaCorrenteComponent } from './conta-corrente/conta-corrente.component';
+import { AtivosComponent } from './ativos/ativos.component';
+
+import { TabViewModule  } from 'primeng/tabview';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    DashboardComponent,
+    ContaCorrenteComponent,
+    AtivosComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    TabViewModule
   ],
   providers: [],
   bootstrap: [AppComponent]
