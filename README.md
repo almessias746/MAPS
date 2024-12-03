@@ -47,12 +47,6 @@ maps-finances-cli - CLIENT
 
 Nosso objetivo foi confirmar o nosso conhecimento e nosso raciocínio lógico na montagem deste projeto.
 
-Gastei cerca de 24 Horas para a sua realização.
-
-Desde já agradeço para oportunidade e quem sabe uma futura parceria.
-
-Disponibilizei no github https://github.com/almessias746/MAPS apenas para o usuário "maps-renato-lundberg"
-
 André Lima Messias
 
 
